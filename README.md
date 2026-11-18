@@ -55,3 +55,14 @@ Semantic embeddings (sentence-transformers), NER for education/experience, FastA
 
 ## Learning Outcomes
 File parsing, NLP preprocessing, TF-IDF, cosine similarity, modular Python design, pandas reporting, Git/GitHub workflow.
+
+## Screenshots
+
+**Dashboard input**
+![Dashboard](images/01_dashboard_input.png)
+
+**Ranking table**
+![Ranking](images/02_ranking_table.png)
+
+**Terminal output**
+![Terminal](images/03_terminal_output.png)
