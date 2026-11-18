@@ -1,0 +1,9 @@
+rank,candidate,file,score,tfidf_similarity,years_experience,must_have_coverage,matched_must_have,missing_must_have,matched_nice_to_have,status
+1,Asha Menon,Asha_Menon.pdf,68.14,0.287,3.0,1.0,"python, sql, excel, power bi, pandas",,"tableau, git, statistics, numpy",Shortlisted
+2,Arjun Das,Arjun_Das.pdf,61.64,0.166,5.0,1.0,"python, sql, excel, power bi, pandas",,"git, statistics, data visualization",Shortlisted
+3,Rahul Nair,Rahul_Nair.docx,51.83,0.179,4.0,0.8,"python, sql, excel, power bi",pandas,tableau,Shortlisted
+4,Neha Joseph,Neha_Joseph.pdf,51.8,0.178,2.0,0.8,"python, sql, excel, pandas",power bi,tableau,Shortlisted
+5,Keyword Stuffer,Keyword_Stuffer.txt,46.09,0.152,0.0,1.0,"python, sql, excel, power bi, pandas",,"tableau, git, statistics",Manual review (low/unclear experience)
+6,Divya Krishnan,Divya_Krishnan.txt,30.2,0.051,1.0,0.4,"python, pandas","sql, excel, power bi","git, data visualization, numpy, machine learning",Rejected (missing must-have skills)
+7,Sanjay Kumar,Sanjay_Kumar.txt,23.59,0.04,6.0,0.2,excel,"python, sql, power bi, pandas",,Rejected (missing must-have skills)
+8,Meera Pillai,Meera_Pillai.docx,15.77,0.019,3.0,0.0,,"python, sql, excel, power bi, pandas",,Rejected (missing must-have skills)

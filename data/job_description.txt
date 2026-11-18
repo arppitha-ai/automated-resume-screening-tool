@@ -1,0 +1,5 @@
+Data Analyst
+We are looking for a Data Analyst with 2+ years of experience to turn data into insights.
+Responsibilities: clean and analyze data using Python and SQL, build dashboards in Power BI,
+create reports in Excel, and present findings to business teams. Experience with Pandas,
+data visualization and statistics is expected. Knowledge of Tableau and Git is a plus.

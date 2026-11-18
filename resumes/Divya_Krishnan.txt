@@ -1,0 +1,4 @@
+Divya Krishnan
+Fresher Data Science graduate, 1 year internship.
+Skills: Python, Pandas, NumPy, Machine Learning, Matplotlib, Git.
+Projects: house price prediction, sentiment analysis.

@@ -1,0 +1,10 @@
+{
+  "must_have": ["python", "sql", "excel", "power bi", "pandas"],
+  "nice_to_have": ["tableau", "git", "statistics", "data visualization", "numpy", "machine learning"],
+  "aliases": {
+    "power bi": ["powerbi", "power-bi"],
+    "machine learning": ["ml"],
+    "data visualization": ["data visualisation", "matplotlib", "seaborn"],
+    "sql": ["mysql", "postgresql"]
+  }
+}
